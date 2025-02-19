@@ -3,6 +3,9 @@
 ## 📌 Overview
 FIFA Dashboard is an interactive web application built using **Dash, Plotly, Pandas, and Flask**, providing detailed insights into FIFA player statistics. This dashboard allows users to analyze and compare player attributes, performance metrics, and league trends effectively.
 
+## 📌 Loom Video 
+https://www.loom.com/share/7e165e1c55ff4df6a020922dfe6bee17
+
 ## 🚀 Features
 - **Player Comparison**: Compare old-school vs. new-generation players based on multiple attributes.
 - **League Analysis**: Visualize statistics of players in top leagues.
